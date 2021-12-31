@@ -1,6 +1,6 @@
 # Deep-Learning-Approach-for-Advanced-Driver-Assistance-System (국책 과제, South Korea)
 
-In this project a hybrid deep learning tool namely LRCN is utilized to detect up to nine various driver activities including **driving, drinking, texting, smoking, talking with rising hands, adjusting the navigation system, looking outside, nodding off to sleep, fainting** inside a real vehicle cabin during the **daytime and nighttime** conditions. The developed model is integrated and tested with warning system to give a real time warning system in real vehilce cabin.  
+In this project **a hybrid deep learning** tool is utilized to detect up to nine various distracted driver activities including **driving, drinking, texting, smoking, talking with rising hands, adjusting the navigation system, looking outside, nodding off to sleep, fainting** inside a real vehicle cabin during the **daytime and nighttime** conditions. RGBDT module sensor is used to collect RGB and thermal infrared(IR) images in several scenarios. The developed model is integrated with an alert system in a real vehicles and tested to give a real-time warning system when the drivers engage in distraction activities while driving. 
 
 ## Real-Time Driver Activity Detection in DayTime 
 ![latest_rgb_day_seo_trim](https://user-images.githubusercontent.com/55071205/147738411-bc8085d1-0eb3-4c13-8efd-6c4e4e0a654e.gif)
